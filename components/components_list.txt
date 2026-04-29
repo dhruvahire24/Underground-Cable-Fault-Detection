@@ -1,0 +1,8 @@
+Arduino UNO
+GSM Module SIM800A
+16x2 LCD Display
+Relay Module (3 Channel)
+Resistors
+Transformer
+9V Adapter
+Connecting Wires
