@@ -49,3 +49,20 @@ Example:
 - Cloud integration
 - Mobile application support
 - AI-based predictive maintenance
+
+
+## Project Images
+
+### Project Setup
+
+![Image 1](images/img1.jpeg)
+
+![Image 2](images/img2.jpeg)
+
+![Image 3](images/img3.jpeg)
+
+![Image 4](images/img4.jpeg)
+
+![Image 5](images/img5.jpeg)
+
+![Image 6](images/img6.jpeg)
